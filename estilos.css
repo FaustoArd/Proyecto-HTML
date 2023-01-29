@@ -1,0 +1,38 @@
+.container {
+    background-color: black;
+}
+
+#contactarme {
+    font-family: 'Crete Round', serif;
+}
+
+.navbar {
+    font-family: 'Signika', sans-serif;
+    
+}
+
+/*.navbar a:hover {
+    color:rgb(3, 20, 8) 
+}*/
+.nav-item a:hover {
+
+    color:rgb(3, 20, 8)
+}
+
+.progress-primary {
+    color: black;
+}
+
+#perfil {
+    font-size: xx-large
+}
+
+#experiencia {
+    margin-top: 40px;
+    font-size: xx-large
+}
+
+.h5 {
+    font-size:xx-small;
+}
+
